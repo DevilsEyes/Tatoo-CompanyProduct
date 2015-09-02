@@ -1,5 +1,5 @@
-//var g$url = 'http://api.meizhanggui.cc/V2.0.0/';
-var g$url = 'http://123.57.42.13/V2.0.0/';
+var g$url = 'http://api.meizhanggui.cc/V2.0.0/';
+//var g$url = 'http://123.57.42.13/V2.0.0/';
 
 var g$id = location.search.substr(1).match(/_id=([^\b&]*)/)[1];//获取店铺id
 
